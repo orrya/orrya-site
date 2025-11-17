@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://orrya.com/sitemap.xml
